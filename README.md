@@ -13,64 +13,64 @@
 
 ## Linguagens e Ferramentas:
 
-<div style="display: inline_block">
+<p align="center">
     <a href="https://www.java.com/" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-            style="text-decoration:none;">
+            alt="Java">
     </a>
     <a href="https://www.javascript.com/" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-            style="text-decoration:none;">
+            alt="JavaScript">
     </a>
     <a href="https://developer.mozilla.org/docs/Web/HTML" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-            style="text-decoration:none;">
+            alt="HTML5">
     </a>
     <a href="https://developer.mozilla.org/docs/Web/CSS" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-            style="text-decoration:none;">
+            alt="CSS3">
     </a>
     <a href="https://getbootstrap.com/" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-            style="text-decoration:none;">
+            alt="Bootstrap">
     </a>
     <a href="https://www.mysql.com/" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-            style="text-decoration:none;">
+            alt="MySQL">
     </a>
     <a href="https://git-scm.com/" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-            style="text-decoration:none;">
+            alt="Git">
     </a>
     <a href="https://github.com/" style="text-decoration:none;">
-        <img align="center" height="34"
+        <img height="35"
             src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-            style="text-decoration:none;">
+            alt="GitHub">
     </a>
-</div>
+</p>
 
 ## Redes sociais e email para contato:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/marceloalves3310/" target="_blank">
-        <img height="34"
+        <img height="35"
             src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn" />
     </a>
     <a href="https://api.whatsapp.com/send?phone=11962326606" target="_blank">
-        <img height="34"
+        <img height="35"
             src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white"
             alt="WhatsApp" />
     </a>
     <a href="mailto:marceloalves3310@gmail.com" target="_blank">
-        <img height="34" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
+        <img height="35" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Gmail" />
     </a>
 </p>
