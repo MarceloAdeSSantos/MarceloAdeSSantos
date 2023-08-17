@@ -6,7 +6,7 @@
 
 <p align='justify'>
     Tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas na UNIP, com previsão de conclusão em dezembro
-    de 2023. Atualmente, trabalho como freelancer, atuando tanto na área física (hardware) quanto na área lógica
+    de 2023. Atualmente, trabalho como freelancer, atuando tanto na parte física (hardware) quanto na parte lógica
     (software) de computadores. Meus serviços incluem manutenção preventiva, formatação, montagem de computadores,
     instalação e configuração de software, entre outros. Estou em busca de um emprego fixo na área de TI e mantenho um
     compromisso constante com a aprendizagem, aplicando os conhecimentos adquiridos por meio dela no meu dia a dia.
