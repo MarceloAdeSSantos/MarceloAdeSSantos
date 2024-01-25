@@ -5,7 +5,7 @@
 ## Sobre mim:
 
 <p align='justify'>
-    Tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas na UNIP, com previsão de conclusão em dezembro de 2023. Atualmente, trabalho como freelancer, atuando tanto na parte física (hardware) quanto na parte lógica (software) de computadores. Minha experiência abrange tanto a área de TI quanto a Administrativa e, por estar familiarizado com ambas, busco uma oportunidade de emprego fixo como Auxiliar/Assistente de Administração ou TI. Além disso, sou comprometido com a aprendizagem constante e aplico os conhecimentos adquiridos por meio dela no meu dia a dia.
+    Olá! Me chamo Marcelo, tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistemas pela UNIP. Estou em busca de uma oportunidade de emprego fixo na área de TI. Possuo experiência como Suporte Técnico, atuando na administração de e-mails pelo Office 365 Admin, manutenção de computadores, configuração de software e orientação aos usuários quanto ao uso dos mesmos. Também fui responsável pela criação do site de uma empresa e pela melhoria de sua infraestrutura de TI. Além disso, sou comprometido com a aprendizagem constante e aplico os conhecimentos adquiridos no meu dia a dia.
 
 ## Linguagens e Ferramentas:
 
